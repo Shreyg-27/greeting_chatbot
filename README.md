@@ -55,3 +55,9 @@ Enter messages, and the chatbot will predict the intent and provide an appropria
 * nltk
 * keras
 * tensorflow
+
+  ## Output
+
+![Screenshot (1303)](https://github.com/Shreyg-27/greeting_chatbot/assets/98229024/d88b9518-30a3-40a8-9007-8677d7bf6516)
+
+
